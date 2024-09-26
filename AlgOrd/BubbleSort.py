@@ -11,4 +11,4 @@ arr= [11, 34 ,25, 12, 22, 11, 90]
 print ("Array original: ", arr)
 
 sorted_arr = bubble_sort(arr)
-print("Sorted array: ", sorted_arr)
+print("Sorted array:", sorted_arr)
