@@ -10,5 +10,4 @@ folium.Marker(
     popup="Berlin",
     icon=folium.Icon(color="blue", icon= "info-sign")
 ).add_to(mymap)
-
 display(mymap)
